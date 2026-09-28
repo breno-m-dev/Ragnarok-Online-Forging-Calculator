@@ -45,11 +45,11 @@ be used!!
 
 | **Stones** | **Success Rate** | **Effect** |
 |:---|:---:|:---|
-| Star Crumb | -15% | <span style="color:#FFD700">Extra Damage</span> |
-| Flame Heart | -20% | <span style="color:#e74c3c">Gives Fire Element</span> |
-| Mystic Frozen | -20% | <span style="color:#3498db">Gives Water Element</span> |
-| Rough Wind | -20% | <span style="color:#2ecc71">Gives Wind Element</span> |
-| Great Nature | -20% | <span style="color:#c8a97e">Gives Earth Element</span> |
+| Star Crumb | -15% |$\color{red}{\textsf{⭐ Extra Damage}}$ |
+| Flame Heart | -20% | 🔥 Fire Element |
+| Mystic Frozen | -20% | 💧 Water Element |
+| Rough Wind | -20% | 🌪️ Wind Element |
+| Great Nature | -20% | 🌱 Earth Element |
 
 ## Blacksmithing skills
 
