@@ -3,12 +3,7 @@
 According to ragnarok online wiki of the server I play, the following is
 the formula to calculate the forging chance of a weapon in percentage.
 
-$Success Rate = [
-  50 + (Anvil) + (Weaponry Research Level)
- + (Oridecon Research Level if Weapon Lv3 or Lv4) + (JobLv × 0.2)
- + (DEX × 0.1) + (LUK × 0.1) - (Weapon Level) - (Element Stone)
- - (Star Crumbs)
-]%$
+$Success Rate = [ 50 + (Anvil) + (Weaponry Research Level) + (Oridecon Research Levelif Weapon Lv3 or Lv4) + (JobLv × 0.2) + (DEX × 0.1) + (LUK × 0.1) - (Weapon level) - (Element Stone) - (Star Crumbs)]%$
 
 ## Weapon level
 The level of the weapon influence the success rate, the higher its level
@@ -103,4 +98,4 @@ skill level.
 
 ## Baby characters
 
-Baby characters have a ****-30% chance debuff on Any forging ****.
+Baby characters have a **-30% chance debuff on Any forging**.
