@@ -1,5 +1,6 @@
-# $\color{violet}{Theory}$
-## $\color{purple}{Calculation}$
+# $\color{violet}{\text{Theory}}$
+## $\color{purple}{\text{Calculation}}$
+
 
 According to ragnarok online wiki of the server I play, the following is
 the formula to calculate the forging chance of a weapon in percentage.
@@ -11,7 +12,7 @@ Success Rate = [ 50 + (Anvil) + (Weaponry Research Level) +
 
 **Note:** Oridecon Research only applies to Lv 3 and Lv 4 weapons.
 
-## $\color{purple}{Weapon Level}$
+## $\color{purple}{\text{Weapon Level}}$
 
 The level of the weapon influence the success rate, the higher its level
 lower the chances are.
@@ -27,7 +28,7 @@ depends on the weapon level.
 
 
 
-## $\color{purple}{Anvils}$
+## $\color{purple}{\text{Anvils}}$
 
 An anvil is necessary to craft an item, but some good anvils increase
 the chance of success of the forging.
@@ -39,7 +40,7 @@ the chance of success of the forging.
 | Golden Anvil | 5% |
 | Emperium Anvil | 10% |
 
-## $\color{purple}{Stones (Elemental stones and star crumbs)}$
+## $\color{purple}{\text{Stones (Elemental stones and star crumbs)}}$
 
 Stones can be added to the forge to give the weapon an elemental effect
 or to increase its damage. But they decrease the success rate of the
@@ -54,13 +55,13 @@ be used!!
 | Rough Wind | -20% | $\textcolor{#2ECC71}{\textsf{🌪️ Wind Element}}$ |
 | Great Nature | -20% | $\textcolor{#C8A97E}{\textsf{🌱 Earth Element}}$ |
 
-## $\color{purple}{Blacksmithing skills}$
+## $\color{purple}{\text{Blacksmithing skills}}$
 
 There are 3 blacksmithing skills that increase the forging success
 chance.
 
 
-### $\color{pink}{Oridecon Research}$
+### $\color{pink}{\text{Oridecon Research}}$
 
 Oridecon Research level **only gives bonus to lvl 3 and 4 weapons.**
 
@@ -73,7 +74,7 @@ Oridecon Research level **only gives bonus to lvl 3 and 4 weapons.**
 | 4 | 4% |
 | 5 | 5% |
 
-### $\color{pink}{Smith Skills}$
+### $\color{pink}{\text{Smith Skills}}$
 
 | **Smith Skills Level** | **Bonus Success Rate** |
 |:---:|:---:|
@@ -81,7 +82,7 @@ Oridecon Research level **only gives bonus to lvl 3 and 4 weapons.**
 | 2 | 20% |
 | 3 | 30% |
 
-### $\color{pink}{Weaponry Research}$
+### $\color{pink}{\text{Weaponry Research}}$
 
 | **Weaponry Research Level** | **Bonus Success Rate** |
 |:---:|:---:|
@@ -97,11 +98,12 @@ Oridecon Research level **only gives bonus to lvl 3 and 4 weapons.**
 | 10 | 10% |
 
 
-### $\color{pink}{Smith weapon restriction}$
+
+### $\color{pink}{\text{Smith weapon restriction}}$
 
 You cannot forge weapons with weapon level higher than your smith weapon
 skill level.
 
-## $\color{purple}{Baby characters}$
+## $\color{purple}{\text{Baby characters}}$
 
 Baby characters have a **-30% chance debuff on Any forging**.
